@@ -136,7 +136,7 @@
             figcaption Nota. Adaptada de matemáticas con tecnología                  
       
       .row.justify-content-center(titulo="Pruebas estadísticas").p-4
-        .col-md-12.mb-4.mb-md-0
+        .col-md-12.mb-4.mb-md-0.col-12
           p Son diversas las pruebas estadísticas  que pueden aplicarse al conjunto de datos, a continuación se relacionan algunas de las más utilizadas.
           ul.lista-ul
             li.d-flex.mb-2
