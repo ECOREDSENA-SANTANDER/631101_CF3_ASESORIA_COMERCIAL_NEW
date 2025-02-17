@@ -428,7 +428,7 @@ export default {
         {
           nombre: 'Laureano E. Ruidiaz Polo',
           cargo: 'Instructor grado 16',
-          centro: 'Centro de Comercio y Servicios - Regional Sena Bolívar',
+          centro: 'Centro de Comercio y Servicios - Regional Bolívar',
         },
         {
           nombre: 'Zenith Chinchilla Ruedas',

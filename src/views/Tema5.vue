@@ -87,7 +87,7 @@
               h5 Figura 11. 
               | Polígonos de frecuencia
           figure
-            img(src='@/assets/curso/temas/tema5/figura11.png', alt='la gráfica presenta puntos unidos por una línea roja que forma una especie de montaña con su trazo.')
+            img(src='@/assets/curso/temas/tema5/figura11.png', alt='La gráfica presenta puntos unidos por una línea roja que forma una especie de montaña con su trazo.')
             figcaption Nota. Adaptada de Khan Academy (2.018)
        
       .row.justify-content-center(titulo="Medidas de tendencia central").p-4
@@ -112,7 +112,7 @@
               h5 Figura 12. 
               | Tendencia central 
           figure
-            img(src='@/assets/curso/temas/tema5/figura12.png', alt='la figura presenta tres gráficas tipo montaña: asimétrica hacia la izquierda, simétrica y asimétrica hacia la derecha; en las tres se señala la media, la mediana y la moda.')
+            img(src='@/assets/curso/temas/tema5/figura12.png', alt='La figura presenta tres gráficas tipo montaña: asimétrica hacia la izquierda, simétrica y asimétrica hacia la derecha; en las tres se señala la media, la mediana y la moda.')
             figcaption Nota. Adaptada de estudiar física.wordpress (2.009)
 
       .row.justify-content-center(titulo="Medidas de dispersión").p-4
@@ -132,7 +132,7 @@
               h5 Figura 13. 
               | Medidas de dispersión
           figure
-            img(src='@/assets/curso/temas/tema5/figura13.png', alt='la figura presenta una grafica tipo montaña donde se señala la le media - 1, la media y la media + 1.')
+            img(src='@/assets/curso/temas/tema5/figura13.png', alt='La figura presenta una grafica tipo montaña donde se señala la le media - 1, la media y la media + 1.')
             figcaption Nota. Adaptada de matemáticas con tecnología                  
       
       .row.justify-content-center(titulo="Pruebas estadísticas").p-4
