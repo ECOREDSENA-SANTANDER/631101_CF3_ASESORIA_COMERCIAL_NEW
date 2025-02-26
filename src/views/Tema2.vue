@@ -87,7 +87,7 @@
           ul.lista-ul
             li
               i.fas.fa-check-circle
-              | #[b Variable dependiente:] es definida por Bernal (2.003) como el “resultado” o “efecto” producido por la variable independiente.
+              | #[b Variable dependiente:] es definida por Bernal (2003) como el “resultado” o “efecto” producido por la variable independiente.
             li
               i.fas.fa-check-circle
               | #[b Variable independiente:] es definida como todo aquel aspecto, hecho, situación, rasgo, que se considera como “la causa de” en una relación entre variables.

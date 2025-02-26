@@ -33,8 +33,7 @@
               img.mb-2(src='@/assets/curso/temas/tema3/img01.png', alt='')
           .col-md-6.mb-4.mb-md-0
             h4 Recogida de los datos
-            p Esta parte del procesamiento de la información requiere previamente haber perfilado
-            p los instrumentos de recolección que hayan sido validados y que generen confiabilidad. La recolección de datos se realiza siguiendo tres (3) pasos:
+            p Esta parte del procesamiento de la información requiere previamente haber perfilado los instrumentos de recolección que hayan sido validados y que generen confiabilidad. La recolección de datos se realiza siguiendo tres (3) pasos:
             ul.lista-ul
               li.d-flex.mb-2
                 i.fas.fa-check-circle
@@ -55,7 +54,7 @@
             .col-md-6.mb-4.mb-md-0
               h4 Procesamiento de los datos
               p Debe efectuarse mediante el uso de herramientas estadísticas apoyadas en 
-              p #[em software] reconocidos por la comunidad científica, que hoy fácilmente se encuentran en el mercado. Para realizar la actividad de procesar los datos se siguen unos pasos de los cuales Bernal (2.003) postula lo siguiente:
+              p #[em software] reconocidos por la comunidad científica, que hoy fácilmente se encuentran en el mercado. Para realizar la actividad de procesar los datos se siguen unos pasos de los cuales Bernal (2003) postula lo siguiente:
               ul.lista-ul
                 li.d-flex.mb-2
                   i.fas.fa-check-circle

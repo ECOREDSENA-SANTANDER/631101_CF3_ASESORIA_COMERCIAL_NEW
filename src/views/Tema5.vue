@@ -7,7 +7,7 @@
         span 5
       h1 Técnicas de evaluación
 
-    p Bernal (2.000) describe las siguientes técnicas de evaluación de la información que pueden efectuarse:
+    p Bernal (2000) describe las siguientes técnicas de evaluación de la información que pueden efectuarse:
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta bgfondo")
       .row.justify-content-center(titulo="Análisis de Pareto")
@@ -46,7 +46,7 @@
               | Diagrama de causa y efecto
           figure
             img(src='@/assets/curso/temas/tema5/img02.png', alt='La figura presenta un gráfico tipo espina de pescado.')
-            figcaption Nota. Adaptada de IBM (2.007)
+            figcaption Nota. Adaptada de IBM (2007)
       
       .row.justify-content-center(titulo="Gráficas de control")
         .col-lg-6.mb-4.mb-md-0.col-md-12
@@ -113,7 +113,7 @@
               | Tendencia central 
           figure
             img(src='@/assets/curso/temas/tema5/figura12.png', alt='La figura presenta tres gráficas tipo montaña: asimétrica hacia la izquierda, simétrica y asimétrica hacia la derecha; en las tres se señala la media, la mediana y la moda.')
-            figcaption Nota. Adaptada de estudiar física.wordpress (2.009)
+            figcaption Nota. Adaptada de estudiar física.wordpress (2009)
 
       .row.justify-content-center(titulo="Medidas de dispersión").p-4
         .col-lg-7.mb-4.mb-md-0.col-md-12

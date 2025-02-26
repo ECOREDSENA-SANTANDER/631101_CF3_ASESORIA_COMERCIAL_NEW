@@ -22,7 +22,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
-        p En el presente milenio la sociedad científica ha caracterizado y denominado a la población como la sociedad de la información, según las expresiones de Ruiz de Querol (2.007), y es que ha sido tanta la exposición de la sociedad a todo tipo de información y en todos los momentos, que se ha convertido en una desventaja competitiva no hacer parte de esta sociedad del conocimiento, para esto es importante entender como los datos se convierten en conocimiento en el contexto contemporáneo.
+        p En el presente milenio la sociedad científica ha caracterizado y denominado a la población como la sociedad de la información, según las expresiones de Ruiz de Querol (2007), y es que ha sido tanta la exposición de la sociedad a todo tipo de información y en todos los momentos, que se ha convertido en una desventaja competitiva no hacer parte de esta sociedad del conocimiento, para esto es importante entender como los datos se convierten en conocimiento en el contexto contemporáneo.
         ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
@@ -120,7 +120,7 @@
                 figcaption Técnicas de recolección de la información.
 
             .tarjeta.fondo-morado.p-3(x="19%" y="38%" numero="+")
-              p #[b La encuesta], según Bernal (2.000), “una de las técnicas más reconocidas y utilizadas, a pesar de que ha perdido credibilidad por  el sesgo que hay en las personas encuestadas y por el uso cada vez más frecuente de TIC´S” (p.172). 
+              p #[b La encuesta], según Bernal (2000), “una de las técnicas más reconocidas y utilizadas, a pesar de que ha perdido credibilidad por  el sesgo que hay en las personas encuestadas y por el uso cada vez más frecuente de TIC´S” (p.172). 
               p Por tanto, la encuesta está fundada en un agregado de interrogantes que son planeadas con la finalidad de obtener información de las personas en referencia a una temática o hecho específico.
 
             .tarjeta.fondo-morado.p-3(x="29%" y="65%" numero="+")
@@ -154,8 +154,8 @@
           img.mb-2(src="@/assets/curso/temas/tema1/img03.png")
         .col-lg-8.col-12.col-sm-12
           h4.subrayado.mb-4 Investigación cualitativa
-          p Según Sampieri (2.006) “se fundamentan más en un proceso inductivo (explorar y describir, y luego generar perspectivas teóricas), van de lo particular a lo general en el análisis de fenómenos sociales” (p 8).
-          p Según  Báez (2.009) en su definición agrega el componente comercial muy de moda en los presentes contextos ofreciendo el concepto de investigación cualitativa como “el conjunto de todas las cosas que se hacen para seguir la pista a los mercados y encontrar los rasgos que distinguen a las personas (cliente, consumidor, organización…) y a las cosas (productos, bienes, servicios, sectores de actividad) sus propiedades y atributos, sean estos naturales y/o adquiridos” (p.35).
+          p Según Sampieri (2006) “se fundamentan más en un proceso inductivo (explorar y describir, y luego generar perspectivas teóricas), van de lo particular a lo general en el análisis de fenómenos sociales” (p 8).
+          p Según  Báez (2009) en su definición agrega el componente comercial muy de moda en los presentes contextos ofreciendo el concepto de investigación cualitativa como “el conjunto de todas las cosas que se hacen para seguir la pista a los mercados y encontrar los rasgos que distinguen a las personas (cliente, consumidor, organización…) y a las cosas (productos, bienes, servicios, sectores de actividad) sus propiedades y atributos, sean estos naturales y/o adquiridos” (p.35).
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-5
           h4 Ventajas y desventajas de la investigación cualitativa
@@ -203,13 +203,13 @@
       .row.justify-content-center.mb-5(data-aos="zoom-in-left")
         .col-lg-8.col-12
           h4.subrayado.mb-4 Investigación cuantitativa
-          p Es un método de investigación en el que, según Sampieri (2.006), el investigador recolecta datos numéricos de los objetos, fenómenos o participantes, que estudia y analiza mediante procedimientos estadísticos.
+          p Es un método de investigación en el que, según Sampieri (2006), el investigador recolecta datos numéricos de los objetos, fenómenos o participantes, que estudia y analiza mediante procedimientos estadísticos.
         .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img04.png")
          
           .row.justify-content-center.align-items-center.mb-5
         .col-lg-5
-          h4 Ventajas y desventajas de la investigación cualitativa
+          h4 Ventajas y desventajas de la investigación cuantitativa
 
             
     .row.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-left")
@@ -226,32 +226,45 @@
                   ul.lista-ul--color
                     li
                       i.fas.fa-check-circle
-                      | Permite profundización.
+                      | Permite hacer proyecciones.
                     li
                       i.fas.fa-check-circle
-                      | Evaluación correspondencia verbal-corporal.
+                      | Mayor variedad de opiniones.
                     li
                       i.fas.fa-check-circle
-                      | Mayor rapidez.
+                      | Hace más tangible la relación causa / efecto.
 
           .col-md.tarjeta.fondo-morado.p-4
             .row.justify-content-center.align-items-center.p-4
                 .col-lg-2.py-2.col-4
-                  img(src='@/assets/curso/temas/tema1/ventaja.svg', alt='')
+                  img(src='@/assets/curso/temas/tema1/desventaja.svg', alt='')
                 .col-lg-8
-                  h2.text-center.titulo-morado.p-2 Ventajas
+                  h2.text-center.titulo-morado.p-2 Desventajas
                 .py-2
                 .col-lg-12
                   ul.lista-ul--color
                     li
                       i.fas.fa-check-circle
-                      |  Permite hacer proyecciones.
+                      |  Altos costos.
+
                     li
                       i.fas.fa-check-circle
-                      |  Mayor variedad de opiniones.
+                      |  Mayor tiempo.
                     li
                       i.fas.fa-check-circle
-                      |  Hace más tangible la relación causa/efecto.
+                      |  No profundiza.
+
+                    li
+                      i.fas.fa-check-circle
+                      |  No registra reacciones.
+                    li
+                      i.fas.fa-check-circle
+                      |  Requiere más personal.
+
+
+
+
+
           .py-3
       
       .row.align-items-center.justify-content-center.mb-5

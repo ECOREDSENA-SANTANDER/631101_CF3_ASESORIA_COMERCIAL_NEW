@@ -396,8 +396,7 @@ export default {
       tema: '5.	Análisis de datos',
       referencia: 'Universidad del sur.(2.018), Análisis de datos',
       tipo: 'Página web',
-      link:
-        'https://sites.google.com/site/tecnicasdeinvestigaciond38/metodos-estadisticos/1-1-analisis-de-datos ',
+      link: 'https://www.mundoposgrado.com/que-es-el-analisis-de-datos/',
     },
     {
       tema: '6. Informes ',
