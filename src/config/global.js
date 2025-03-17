@@ -174,12 +174,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Bernal T cesar Augusto. (2.003) Metodología de la investigación aplicada para administración y economía. Editorial Prentice Hill.',
+        'Bernal T cesar Augusto. (2003) Metodología de la investigación aplicada para administración y economía. Editorial Prentice Hill.',
       link: '',
     },
     {
       referencia:
-        'Big Data Internacional Campus (2.020). Data mining vs Big data. ',
+        'Big Data Internacional Campus (2020). Data mining vs Big data. ',
       link:
         'https://www.campusbigdata.com/big-data-blog/item/82-data-mining-vs-big-data',
     },
@@ -271,7 +271,7 @@ export default {
     },
     {
       referencia:
-        'Lind Douglas A, Marchal William E, Wathen Samuel A. (2.008). Estadística aplicada a los negocios y la economía. MC Graw Hill Interamericana.',
+        'Lind Douglas A, Marchal William E, Wathen Samuel A. (2008). Estadística aplicada a los negocios y la economía. MC Graw Hill Interamericana.',
       link: '',
     },
     {
@@ -394,7 +394,7 @@ export default {
     },
     {
       tema: '5.	Análisis de datos',
-      referencia: 'Universidad del sur.(2.018), Análisis de datos',
+      referencia: 'Universidad del sur 2018), Análisis de datos',
       tipo: 'Página web',
       link: 'https://www.mundoposgrado.com/que-es-el-analisis-de-datos/',
     },

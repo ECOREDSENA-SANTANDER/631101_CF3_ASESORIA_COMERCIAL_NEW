@@ -28,10 +28,10 @@
     TabsC.color-acento-botones(data-aos="zoom-in-left")
       .py-3.py-md-5(titulo="Recogida de los datos").bgfondo4
         .row.justify-content-center.align-items-center.p-4
-          .col-md-4.col-8.my-2
+          .col-md-4.col-8.my-2.col-lg-4
             figure
               img.mb-2(src='@/assets/curso/temas/tema3/img01.png', alt='')
-          .col-md-6.mb-4.mb-md-0
+          .col-md-12.mb-4.mb-md-0.col-g-6
             h4 Recogida de los datos
             p Esta parte del procesamiento de la información requiere previamente haber perfilado los instrumentos de recolección que hayan sido validados y que generen confiabilidad. La recolección de datos se realiza siguiendo tres (3) pasos:
             ul.lista-ul
@@ -48,10 +48,10 @@
           
       .py-3.py-md-5(titulo="Procesamiento de los datos").bgfondo4
         .row.justify-content-center.align-items-center.p-4(data-aos="zoom-in-left")
-            .col-md-4.col-8.my-2
+            .col-md-4.col-8.my-2.col-lg-4
               figure
                 img.mb-2(src='@/assets/curso/temas/tema3/img02.png', alt='')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0.col-lg-6
               h4 Procesamiento de los datos
               p Debe efectuarse mediante el uso de herramientas estadísticas apoyadas en 
               p #[em software] reconocidos por la comunidad científica, que hoy fácilmente se encuentran en el mercado. Para realizar la actividad de procesar los datos se siguen unos pasos de los cuales Bernal (2003) postula lo siguiente:
@@ -74,10 +74,10 @@
         
       .py-3.py-md-5(titulo="Interpretación de los datos").bgfondo4
         .row.justify-content-center.align-items-center.p-4
-          .col-md-4.col-8.my-2
+          .col-md-4.col-8.my-2.col-lg-4
             figure
               img.mb-2(src='@/assets/curso/temas/tema3/img03.png', alt='')
-          .col-md-6.mb-4.mb-md-0
+          .col-md-12.mb-4.mb-md-0.col-lg-6
             h4 Interpretación de los datos
             p Se refiere a la ejecución de procesos por medio de los cuales se examinan los datos con el fin de llegar a una conclusión informada y una etapa esencial del procesamiento de datos.
         
@@ -86,7 +86,7 @@
           .col-md-4.col-8.my-2
             figure
               img.mb-2(src='@/assets/curso/temas/tema3/img04.png', alt='')
-          .col-md-6.mb-4.mb-md-0
+          .col-md-12.mb-4.mb-md-0
             h4 Almacenamiento de los datos
             p Es el proceso de custodia o protección de la información a través del empleo de un conjunto de técnicas desarrollada enfáticamente para guardar esos datos y garantizar su acceso en el momento en que se requiera.
                

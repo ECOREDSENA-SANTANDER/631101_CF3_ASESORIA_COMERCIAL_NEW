@@ -35,7 +35,7 @@
               | Análisis de Pareto
           figure
             img(src='@/assets/curso/temas/tema5/img01.png', alt='La figura presenta una gráfica con varias barras azules, y una línea roja que uno puntos rojos.')
-            figcaption Nota. Adaptada de Jose Marcondes (2.020)
+            figcaption Nota. Adaptada de Jose Marcondes (2020)
 
       .row.justify-content-center.p-4(titulo="Diagrama de causa efecto")
         .col-md-12.mb-4.mb-md-0
@@ -67,7 +67,7 @@
               | Gráfico de control X-R.
           figure
             img(src='@/assets/curso/temas/tema5/figura9.png', alt='La grafica presenta  puntos situados en un zigzag irregural unidos por una línea azul.')
-            figcaption Nota. Adaptada de Grupo 10 (2.015)
+            figcaption Nota. Adaptada de Grupo 10 (2015)
        
       .row.justify-content-center.p-4(titulo="Distribución de frecuencias y representaciones gráficas")
         .col-md-12.mb-4.mb-md-0
@@ -79,7 +79,7 @@
               | Histograma
           figure
             img(src='@/assets/curso/temas/tema5/figura10.png', alt='La grafica presenta varias barras de color azul.')
-            figcaption Nota. Adaptada de Marta (2.019)
+            figcaption Nota. Adaptada de Marta (2019)
 
         .col-lg-5.blanco.p-4.col-md-9
           p Polígonos de frecuencia son representaciones gráficas que reflejan una imagen veloz de los más importantes rasgos de los datos de una distribución de frecuencias.
@@ -88,7 +88,7 @@
               | Polígonos de frecuencia
           figure
             img(src='@/assets/curso/temas/tema5/figura11.png', alt='La gráfica presenta puntos unidos por una línea roja que forma una especie de montaña con su trazo.')
-            figcaption Nota. Adaptada de Khan Academy (2.018)
+            figcaption Nota. Adaptada de Khan Academy (2018)
        
       .row.justify-content-center(titulo="Medidas de tendencia central").p-4
         .col-lg-7.mb-4.mb-md-0.col-md-12

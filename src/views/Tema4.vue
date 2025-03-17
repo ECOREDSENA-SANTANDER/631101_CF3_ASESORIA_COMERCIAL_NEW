@@ -73,7 +73,7 @@
               h5 Figura 3. 
               | Análisis descriptivo, predictivo y prescriptivo
             img(src='@/assets/curso/temas/tema4/img05.svg', alt='La imagen presenta tres iconos donde se lee respectivamente lo siguiente: Descriptiva(bombillo): describir y comprender lo que está pasando. <i>Big Data</i>. Predictiva(lupa): predecir lo que puede pasar. Pronostico y simulación. Prescriptiva(grafica de barras): Lo que se debe hacer en el futuro. Técnicas de optimización.')
-            figcaption Nota: Adaptada de David Higuita (2.016)
+            figcaption Nota: Adaptada de David Higuita (2016)
       Separador 
       #t_4_3.titulo-segundo.mb-4.color-primario
         h2 4.3 Técnicas de análisis de datos  
@@ -105,7 +105,7 @@
                     h5 Figura 4. 
                     | Ámbito, Objetivos de negocio
                   img(src='@/assets/curso/temas/tema4/img06.svg', alt='La imagen presenta un diagrama de flujo con figuras geométricas que representan el proceso del análisis de datos: datos iniciales, almacén de datos, vista minable, patrones , conocimiento y decisiones. Adicional a estos conceptos, se encuentran mencionados en un flujo contrario: revisión, despliegue, evaluación, modelado, preparación de datos, integración y recopilación.')
-                  figcaption Nota. Adaptada de conceptos (2.018)
+                  figcaption Nota. Adaptada de conceptos (2018)
 
 
               .row.justify-content-center(titulo="<i>Business intelligence</i>")
@@ -133,20 +133,20 @@
                   .py-2
                   h4 Análisis del #[em Big Data]
                   .py-2
-                  p El análisis de ‘grandes datos’ es el proceso de inspeccionar grandes cantidades de datos de una diversidad de tipos (#[em big data]) para descubrir patrones escondidos u ocultos, correspondencias inéditas u otra información útil, para generar información que posteriormente se convierta en conocimiento y aprendizaje en la toma asertiva de decisiones. Según Rodal Montero (2.020) define la “analítica de #[em big data]  como  la recolección, gestión y análisis a alta velocidad de grandes, dinámicos y heterogéneos volúmenes de datos generados por usuarios y máquinas, que debido a su tamaño y complejidad superan las capacidades de procesamiento de las herramientas de #[em software] tradicionales, por lo que requieren técnicas innovadoras para su procesamiento y tratamiento”. (p 65).
+                  p El análisis de ‘grandes datos’ es el proceso de inspeccionar grandes cantidades de datos de una diversidad de tipos (#[em big data]) para descubrir patrones escondidos u ocultos, correspondencias inéditas u otra información útil, para generar información que posteriormente se convierta en conocimiento y aprendizaje en la toma asertiva de decisiones. Según Rodal Montero (2020) define la “analítica de #[em big data]  como  la recolección, gestión y análisis a alta velocidad de grandes, dinámicos y heterogéneos volúmenes de datos generados por usuarios y máquinas, que debido a su tamaño y complejidad superan las capacidades de procesamiento de las herramientas de #[em software] tradicionales, por lo que requieren técnicas innovadoras para su procesamiento y tratamiento”. (p 65).
                   p Las fases del proceso de la analítica de grandes datos es la recolección de grandes magnitudes de datos, posteriormente existe todo un proceso de limpieza de esos datos, evitando los valores que constituyan ruido.
                 .col-lg-5.col-sm-9.blanco.p-4
                   .titulo-sexto.color-secundario
                     h5 Figura 6.
                     | #[em Big Data] 
                   img.mb-2(src='@/assets/curso/temas/tema4/img09.png', alt='La imagen presenta las palabras <i>BIG DATA</i> en el medio de un circulo, sobre el cual se mencionan: recolección de datos, limpieza de datos, analisis de datos e interpretación de datos.')
-                  figcaption Nota. Adaptada de Raul Pulido (2.018)
+                  figcaption Nota. Adaptada de Raul Pulido (2018)
 
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
         .col-lg-4.col-8.my-2.col-sm-6
           img.mb-2(src='@/assets/curso/temas/tema4/img10.png', alt='')
         .col-lg-8
-          p Para Big Data Internacional Campus (2.020) #[em Data mining] es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El #[em data mining] reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.
+          p Para Big Data Internacional Campus (2020) #[em Data mining] es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El #[em data mining] reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.
           .cajon.color-acento-contenido.p-4.mb-4
             p La principal diferencia entre #[em big data] y #[em data mining] (grandes datos y minería de datos) se halla en que #[em data mining] se refiere a operaciones que implican búsquedas sofisticadas para la obtención de datos específicos y concretos dentro del gran mundo de los datos (#[em big data]) Ejemplificando la #[em data mining] es observar, analizar y estudiar los datos con  microscopios, mientras que el #[em big data]  utilizará telescopios para observar, analizar y estudiar los datos
       
