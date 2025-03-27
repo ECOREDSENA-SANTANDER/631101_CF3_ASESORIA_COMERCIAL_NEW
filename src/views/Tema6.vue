@@ -13,8 +13,8 @@
       h2 6.1 Informes
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-lg-4.col-8
-        img.mb-2(src='@/assets/curso/temas/tema6/img01.png', alt='')
+      .col-lg-4.col-8.col-md-6
+        img.mb-4(src='@/assets/curso/temas/tema6/img01.png', alt='')
       .col-lg-8
         p Es un escrito que tiene como resultado anunciar y dar balance de una situación desde diferentes perspectivas, es decir, de algo sobre lo que se está efectuando una investigación exhaustiva; entre las principales características que debe tener el informe, la primera es la claridad en el lenguaje para que tenga comprensión por parte del lector, la segunda característica del informe escrito es la objetividad en reflejar los hechos basados en información comprobable, la tercera característica es la estructuración respondiendo a criterios narrativos y presentar una estructura mínima en cuanto introducción, desarrollo y conclusiones.
     

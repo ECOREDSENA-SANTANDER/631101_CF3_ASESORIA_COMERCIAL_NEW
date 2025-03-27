@@ -9,10 +9,10 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-8.col-sm-6
-        img.mb-2(src='@/assets/curso/temas/tema1/img01.svg', alt='')
+        img.mb-4(src='@/assets/curso/temas/tema1/img01.svg', alt='')
       .col-lg-8
         p En el actual siglo XXI, una de sus principales características es la valía de la información para la toma de decisiones tanto empresariales, como ambientales y sociales; la sociedad vive en un mundo de permanente bombardeo de información en noticias de prensa, radio y televisión, pero con la masificación de la web y de las redes sociales, hoy en día el ser humano vive rodeado de información útil, pero también de información bastante inservible o inútil.    
-        .cajon.color-acento-contenido.p-4.mb-4
+        .cajon.color-acento-contenido.p-4
           p Ahora bien, en los desempeños en que cotidianamente se desenvuelve la gran mayoría de las profesiones, oficios y artes, la información es trascendente en la toma de decisiones para el desempeño laboral. Para que este proceso de decisión sea lo más acertado posible es necesario determinar primero lo que es dato, información y generación de conocimientos.
 
     
@@ -43,14 +43,14 @@
     #t_1_2.titulo-segundo.mb-4.color-primario
       h2 1.2 Importancia de la información
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.col-8.col-sm-6
+    .row.justify-content-center.align-items-center.mb-2
+      .col-lg-4.col-8.col-md-4
         img.mb-2(src='@/assets/curso/temas/tema1/img02.png', alt='')
       .col-lg-8
         p.mb-4 Es importante estar debidamente informado sobre un propósito, porque no solamente permite desenrollar un punto de vista o postura respecto del mismo, sino también porque permite adelantarse  a un hecho o estar prevenidos sobre determinada situación.
         .cajon.color-acento-contenido.p-4.mb-4
           p Según Florencia (2013) en sus blogs expresa “Gracias a la información se puede conceptuar, significar o encontrarle sentido a las cosas que rodean o acontecen en la sociedad, para luego de concebir el conocimiento debido, tomar decisiones”.
-        p.mb-5 Entonces, la información es necesaria y vital en muchos aspectos de la vida personal y profesional, y en los tiempos presentes se le atribuye a la misma una especial valoración en diversos contextos ya que sin duda alguna en la actualidad la humanidad está atravesando la era de la información.
+        p Entonces, la información es necesaria y vital en muchos aspectos de la vida personal y profesional, y en los tiempos presentes se le atribuye a la misma una especial valoración en diversos contextos ya que sin duda alguna en la actualidad la humanidad está atravesando la era de la información.
 
     Separador 
     #t_1_3.titulo-segundo.mb-4.color-primario
@@ -67,7 +67,7 @@
           h3.bg13.py-2.w-card-text Fuentes de información primaria y secundaria    
     p.mb-4 Obtener información confiable y válida requiere cuidado y dedicación, pues de ello depende la confiabilidad y validez del estudio, estos datos o información que va a recolectarse en el medio, a través del cual se responden las preguntas de investigación y se logran los objetivos del estudio. Los datos deben ser pertinentes y suficientes para lo cual es necesario definir las fuentes y técnicas adecuadas para su recolección.
 
-    .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+    //.row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-md-6.col-lg.mb-lg-0
         .tarjeta-avatar
           .tarjeta.fondo-azul
@@ -133,7 +133,7 @@
               p #[b El análisis de documentos] se utiliza bajo los criterios de fichas bibliográficas que analizan material impreso o digital, su principal uso está en la elaboración del marco teórico del estudio.
             
             .tarjeta.fondo-morado.p-3(x="80%" y="37%" numero="+")
-              p #[b La búsqueda web] o consulta de bases de datos, páginas web, bloogs, en la red virtual se ha convertido en técnica de recolección de información por excelencia de toda la sociedad. 
+              p #[b La búsqueda web] o consulta de bases de datos, páginas web, blogs, en la red virtual se ha convertido en técnica de recolección de información por excelencia de toda la sociedad. 
 
 
       Separador 
@@ -149,14 +149,14 @@
             h3.bg13.py-2.w-card-text Análisis de la información
 
       
-      .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-        .col-lg-4.col-8
-          img.mb-2(src="@/assets/curso/temas/tema1/img03.png")
-        .col-lg-8.col-12.col-sm-12
+      .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
+        .col-lg-4.col-8.col-md-6
+          img.mb-5(src="@/assets/curso/temas/tema1/img03.png")
+        .col-lg-8.col-12.col-md-12
           h4.subrayado.mb-4 Investigación cualitativa
           p Según Sampieri (2006) “se fundamentan más en un proceso inductivo (explorar y describir, y luego generar perspectivas teóricas), van de lo particular a lo general en el análisis de fenómenos sociales” (p 8).
           p Según  Báez (2009) en su definición agrega el componente comercial muy de moda en los presentes contextos ofreciendo el concepto de investigación cualitativa como “el conjunto de todas las cosas que se hacen para seguir la pista a los mercados y encontrar los rasgos que distinguen a las personas (cliente, consumidor, organización…) y a las cosas (productos, bienes, servicios, sectores de actividad) sus propiedades y atributos, sean estos naturales y/o adquiridos” (p.35).
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-2
         .col-lg-5
           h4 Ventajas y desventajas de la investigación cualitativa
               
@@ -200,14 +200,14 @@
                 br
                 br
       .py-3
-      .row.justify-content-center.mb-5(data-aos="zoom-in-left")
+      .row.justify-content-center.mb-2(data-aos="zoom-in-left")
         .col-lg-8.col-12
           h4.subrayado.mb-4 Investigación cuantitativa
           p Es un método de investigación en el que, según Sampieri (2006), el investigador recolecta datos numéricos de los objetos, fenómenos o participantes, que estudia y analiza mediante procedimientos estadísticos.
-        .col-lg-4.col-8
+        .col-lg-4.col-8.col-md-6
           img(src="@/assets/curso/temas/tema1/img04.png")
          
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-4
         .col-lg-5
           h4 Ventajas y desventajas de la investigación cuantitativa
 

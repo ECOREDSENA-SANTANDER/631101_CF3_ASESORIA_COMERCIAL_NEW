@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-5 En el siguiente video se presenta la introducción al manejo de la información de los clientes y sus características y necesidades, con esto la empresa puede tomar buenas decisiones de mercado. 
+    p.mb-4 En el siguiente video se presenta la introducción al manejo de la información de los clientes y sus características y necesidades, con esto la empresa puede tomar buenas decisiones de mercado. 
     
     figure.mb-5
       .video

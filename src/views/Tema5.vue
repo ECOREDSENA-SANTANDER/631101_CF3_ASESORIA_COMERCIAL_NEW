@@ -34,7 +34,7 @@
               h5 Figura 7. 
               | Análisis de Pareto
           figure
-            img(src='@/assets/curso/temas/tema5/img01.png', alt='La figura presenta una gráfica con varias barras azules, y una línea roja que uno puntos rojos.')
+            img(src='@/assets/curso/temas/tema5/img01.png', alt='La figura presenta una gráfica con varias barras azules, y una línea roja que uno puntos rojos')
             figcaption Nota. Adaptada de Jose Marcondes (2020)
 
       .row.justify-content-center.p-4(titulo="Diagrama de causa efecto")

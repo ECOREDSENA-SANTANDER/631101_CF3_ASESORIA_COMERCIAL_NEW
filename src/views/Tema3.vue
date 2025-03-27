@@ -8,7 +8,7 @@
       h1 Procesamiento de la información
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-lg-4.col-8
+      .col-lg-4.col-8.col-md-6
         img.mb-2(src="@/assets/curso/temas/tema3/img01.svg")
       .col-lg-8
         p Es un proceso que implica:

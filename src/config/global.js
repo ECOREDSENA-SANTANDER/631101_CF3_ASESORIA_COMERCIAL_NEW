@@ -402,7 +402,7 @@ export default {
       tema: '6. Informes ',
       referencia: 'Equipo editorial etece. (2021) Concepto, informes',
       tipo: 'Página web',
-      link: 'https://concepto.de/informe/ ',
+      link: 'https://concepto.de/informe/',
     },
   ],
   creditos: [

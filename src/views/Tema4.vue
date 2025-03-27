@@ -22,7 +22,7 @@
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-4.col-8.col-sm-6
-          img.mb-2(src='@/assets/curso/temas/tema4/img02.png', alt='')
+          img.mb-4(src='@/assets/curso/temas/tema4/img02.png', alt='')
         .col-lg-8
           .cajon.color-acento-contenido.p-4.mb-4
             p Son todos los trabajos realizados previamente sobre el tema que se va a investigar y que aportan información relevante para nuestro trabajo. La página web de Quality Leadership University (QLE) indica que tradicionalmente en el análisis de antecedentes se verifica:
@@ -81,7 +81,7 @@
       p Las técnicas de análisis de datos se definen como el proceso de explorar los datos metódicamente con el objetivo de destacar aquella información que sea más útil, con el auge y la aplicación de las tecnologías basadas en las industrias 4.0 los análisis de datos se hacen cada vez más precisos, disminuyendo la incertidumbre y el riesgo de errores.
 
 
-      .row.mb-5
+      .row.mb-2
         .col-lg-12.col-12
           .tarjeta.tarjeta--gris.p-4.mb-5
             LineaTiempoC.color-acento-contenido(text-small)
