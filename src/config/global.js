@@ -296,7 +296,7 @@ export default {
     },
     {
       referencia:
-        'Rodal Montero Enrique, 2.020, Industrias 4.0. Editorial Pirámide.',
+        'Rodal Montero Enrique. (2020). Industrias 4.0. Editorial Pirámide.',
       link: '',
     },
     {
@@ -312,12 +312,12 @@ export default {
     },
     {
       referencia:
-        'Samperi Hernández Roberto, 2.006, Metodología de la investigación. Editorial Mc Graw Hill',
+        'Samperi Hernández Roberto. (2006). Metodología de la investigación. Editorial Mc Graw Hill',
       link: '',
     },
     {
       referencia:
-        'Suarez R. Pedro Alejandro, 2.001, Metodología de la investigación diseños y técnicas. Orión editores.',
+        'Suarez R. Pedro Alejandro. (2001). Metodología de la investigación diseños y técnicas. Orión editores.',
       link: '',
     },
   ],
